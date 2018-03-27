@@ -1,0 +1,15 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Encoder folder contains 
+
+1.Encoder-VG1.v which is gate  modelling of Encoder
+2.Encoder-V1.v which is test-bench of Encoder
+3.Encoder-V1.vcd contains vcd dump
+4.Encoder-gtkwave.png is a screenshot of gtkwave of Encoder
+5.Encoder-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. Encoder-logisim-block-diagram(1)&(2).png is a screenshot of block diagram
+    b. Encoder.circ is a logisim file of block diagram

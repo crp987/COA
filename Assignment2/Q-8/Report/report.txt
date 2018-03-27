@@ -1,0 +1,14 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Register folder contains 
+
+1.Register-VB1.v which is behavioural modelling of Register
+2.Register-V1.v which is test-bench of Register
+3.Register-V1.vcd contains vcd dump
+4.Register-gtkwave.png is a screenshot of gtkwave of Register
+5.Register-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. Register-block-diagram.png is a screenshot of block diagram

@@ -1,0 +1,108 @@
+$date
+	Tue Oct 17 22:38:58 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module message_tb $end
+$var reg 32 ! aMessage [31:0] $end
+$var reg 1 " aSend $end
+$var reg 32 # bMessage [31:0] $end
+$var reg 1 $ bSend $end
+$scope module a $end
+$var wire 32 % message [31:0] $end
+$var wire 1 & send $end
+$scope module m $end
+$var wire 32 ' message [31:0] $end
+$var wire 1 & receive $end
+$upscope $end
+$upscope $end
+$scope module b $end
+$var wire 32 ( message [31:0] $end
+$var wire 1 ) send $end
+$scope module m $end
+$var wire 32 * message [31:0] $end
+$var wire 1 ) receive $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 *
+0)
+b0 (
+b0 '
+0&
+b0 %
+0$
+b0 #
+0"
+b0 !
+$end
+#10
+b110110 !
+b110110 %
+b110110 '
+1"
+1&
+#20
+b1001000 #
+b1001000 (
+b1001000 *
+1$
+1)
+0"
+0&
+#30
+b10011 !
+b10011 %
+b10011 '
+0$
+0)
+1"
+1&
+#40
+b1011101 #
+b1011101 (
+b1011101 *
+1$
+1)
+0"
+0&
+#50
+b100010 !
+b100010 %
+b100010 '
+0$
+0)
+1"
+1&
+#60
+b1001111 #
+b1001111 (
+b1001111 *
+1$
+1)
+0"
+0&
+#70
+b11100 !
+b11100 %
+b11100 '
+0$
+0)
+1"
+1&
+#80
+b1010110 #
+b1010110 (
+b1010110 *
+1$
+1)
+0"
+0&
+#90

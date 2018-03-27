@@ -1,0 +1,10 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Dflipflop folder contains 
+
+1.hello_world.v which is test-bench of Dflipflop
+2.hello_world.png is a screenshot of output of testbench
+

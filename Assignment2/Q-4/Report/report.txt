@@ -1,0 +1,15 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Fulladder folder contains 
+
+1.Fulladder-VG1.v which is gate  modelling of Fulladder
+2.Fulladder-V1.v which is test-bench of Fulladder
+3.Fulladder-V1.vcd contains vcd dump
+4.Fulladder-gtkwave.png is a screenshot of gtkwave of Fulladder
+5.Fulladder-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. Fulladder-logisim-block-diagram.png is a screenshot of block diagram
+    b. Fulladder.circ is a logisim file of block diagram

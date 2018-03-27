@@ -1,0 +1,14 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+message folder contains 
+
+1.message-VB1.v which is behavioural modelling of message
+2.message-V1.v which is test-bench of message
+3.message-V1.vcd contains vcd dump
+4.message-gtkwave.png is a screenshot of gtkwave of message
+5.message-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. message-block-diagram.png is a screenshot of block diagram

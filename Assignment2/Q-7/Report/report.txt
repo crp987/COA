@@ -1,0 +1,14 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Dflipflop folder contains 
+
+1.Dflipflop-VB1.v which is behavioural modelling of Dflipflop
+2.Dflipflop-V1.v which is test-bench of Dflipflop
+3.Dflipflop-V1.vcd contains vcd dump
+4.Dflipflop-gtkwave.png is a screenshot of gtkwave of Dflipflop
+5.Dflipflop-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. Dflipflop-block-diagram.png is a screenshot of block diagram

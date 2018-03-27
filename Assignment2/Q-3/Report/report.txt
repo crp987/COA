@@ -1,0 +1,15 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Halfadder folder contains 
+
+1.Halfadder-VG1.v which is gate  modelling of Halfadder
+2.Halfadder-V1.v which is test-bench of Halfadder
+3.Halfadder-V1.vcd contains vcd dump
+4.Halfadder-gtkwave.png is a screenshot of gtkwave of Halfadder
+5.Halfadder-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. Halfadder-logisim-block-diagram.png is a screenshot of block diagram
+    b. Halfadder.circ is a logisim file of block diagram

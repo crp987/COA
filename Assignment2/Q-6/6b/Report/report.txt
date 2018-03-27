@@ -1,0 +1,9 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+Register folder contains 
+
+1.message2-VB1.v which is behavioural modelling of Register
+2.message2-V1.v which is test-bench of Register

@@ -1,0 +1,15 @@
+Name : 1.Prajapati Chetan Rameshbhai (16CO132)
+       2.Rana Hardikkumar Mahendrakumar (16CO138)
+
+NOte : Each code is written in verilog
+
+n-bit-adder-subtractor folder contains 
+
+1.n-bit-adder-subtractor-VG1.v which is gate  modelling of n-bit-adder-subtractor
+2.n-bit-adder-subtractor-V1.v which is test-bench of n-bit-adder-subtractor
+3.n-bit-adder-subtractor-V1.vcd contains vcd dump
+4.n-bit-adder-subtractor-gtkwave.png is a screenshot of gtkwave of n-bit-adder-subtractor
+5.n-bit-adder-subtractor-output.png is a screenshot of output of testbench
+6.Report directory contains block-diagram made in logisim
+    a. n-bit-adder-subtractor-logisim-block-diagram.png is a screenshot of block diagram
+    b. n-bit-adder-subtractor.circ is a logisim file of block diagram
